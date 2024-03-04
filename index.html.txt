@@ -1,15 +1,11 @@
 <!doctype html>
 <html lang="">
   <head>
-<<<<<<< HEAD
     <meta charset="utf-8">
-=======
-    <meta charset="utf-10">
->>>>>>> 0be3ac69a95bab0a5a47f11e6394bb61a3117e62
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Bootstrap demo</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
+    <h1>Hellom, world!</h1>
   </body>
 </html>
